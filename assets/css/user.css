@@ -106,11 +106,11 @@ a:hover {
 }
 
 .navbar-custom .nav li.active a {
-  color: #1ba39c;
+  color: #a1eeff;
 }
 
 .navbar-custom .nav li.active a:hover {
-  color: #1ba39c;
+  color: #a1eeff;
 }
 
 @media (min-width: 768px) {
