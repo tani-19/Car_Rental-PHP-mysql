@@ -3,7 +3,7 @@ html {
   height: 100%;
   margin: 0;
   font: 400 15px/1.8 "Lato", sans-serif;
-  color: #777;
+  color: #b1b1b1;
 }
 
 blink,
@@ -66,7 +66,7 @@ a:hover {
 }
 
 .navbar-custom .navbar-brand:focus {
-  outline: 0;
+  outline: 2;
 }
 
 .navbar-custom .navbar-brand .navbar-toggle {
@@ -91,7 +91,7 @@ a:hover {
 
 .navbar-custom .nav li a:hover {
   outline: 0;
-  color: #1ba39c;
+  color: #a1eeff;
   background-color: transparent;
 }
 
@@ -141,7 +141,7 @@ a:hover {
   height: auto;
   padding: 100px 0 100px 0;
   text-align: center;
-  color: rgb(19, 19, 19);
+  color: rgb(255, 255, 255);
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
@@ -256,7 +256,7 @@ a:hover {
 .bgimg-1,
 .bgimg-2 {
   position: relative;
-  opacity: 0.8;
+  opacity: 0.9;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -300,7 +300,7 @@ h3 {
 .breadcrumb {
   text-align: center;
   background-color: transparent;
-  border-bottom: 1px solid #eee;
+  border-bottom: 1px solid #ececec;
   padding-top: 12px;
   padding-bottom: 12px;
   margin-bottom: 40px;
@@ -339,7 +339,7 @@ h3 {
   margin: 4px;
   color: #fff;
   text-align: center;
-  background-color: #798fa5;
+  background-color: #f3f4f6;
   height: 32px;
   opacity: 0.8;
   line-height: 32px;
@@ -395,8 +395,8 @@ h3 {
 }
 
 .sub-menu {
-  background: #fff;
-  box-shadow: 0 1px 5px rgba(104, 104, 104, 0.8);
+  background: #f6f5f5;
+  box-shadow: 0 1px 5px rgba(13, 44, 102, 0.8);
   width: 270px;
   height: 310px;
   padding: 1.5rem;
@@ -404,7 +404,7 @@ h3 {
 }
 
 .sub-menu:hover {
-  box-shadow: 0 1px 20px rgba(104, 104, 104, 0.8);
+  box-shadow: 0 1px 20px rgba(0, 0, 0, 0.8);
 }
 
 .card-img-top {
