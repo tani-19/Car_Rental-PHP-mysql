@@ -5,7 +5,7 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 ### Screenshots:
 > - Landing Page
-<img src=url("../Desktop/Screenshots/index.png") width="800" height="450" alt="landing_page"/>
+<img src=/Screenshots/index.png width="800" height="450" alt="landing_page"/>
 
 > - Available Cars
 <img src="/Screenshots/available_cars.png" width="800" height="450" alt="available_cars"/>
