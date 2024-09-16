@@ -4,7 +4,7 @@ Online Car Rental Management System
 This is a Web based Application developed using PHP as a Host Language. Database for the Application is in "Database" folder. It can be imported to your localhost(phpMyAdmin) or any other servers. Also configure the "connection.php" to set up the necessary connections with the database.
 
 ### Screenshots:
-> - Landing Page
+> - #Landing Page
 <img width="1440" src="https://github.com/user-attachments/assets/4264d06f-5240-4e49-b252-1059afb66fe6" height="450" alt="landing_page"/>
 
 
