@@ -5,29 +5,29 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 ### Screenshots:
 - Landing Page
-<img width="1440" src="https://github.com/user-attachments/assets/4264d06f-5240-4e49-b252-1059afb66fe6" height="600" alt="landing_page"/>
+<img width="1440" src="https://github.com/user-attachments/assets/92f2e27f-41f1-494f-bfb9-38148bf0e86e" height="600" alt="landing_page"/>
 
 
 
 - Available Cars
-<img width="1440" src="https://github.com/user-attachments/assets/92451ac1-98ea-48e2-ad4b-fb6982343cd1" height="600" alt="available_cars"/>
+<img width="1440" src="https://github.com/user-attachments/assets/b0e02b06-2ba3-4af5-84d3-85160c31fd34" height="600" alt="available_cars"/>
 
 
 
 - Add Cars
-<img width="1440" src="https://github.com/user-attachments/assets/102886f6-25db-412f-8200-c4c722aef2ce" height="600" alt="add_car"/>
+<img width="1440" src="https://github.com/user-attachments/assets/3be9eb54-cb4f-4fab-a807-33bbfba11274" height="600" alt="add_car"/>
 
 
 
 - Booking Confirmation
-<img width="1440" src="https://github.com/user-attachments/assets/c72c41f7-825c-4a91-bb25-080e63ccc61a" height="600" alt="booking_confirm"/>
+<img width="1440" src="https://github.com/user-attachments/assets/c3255273-8288-48a5-9992-b894719ab5ab" height="600" alt="booking_confirm"/>
 
 
 
 - Return Car
-<img width="1440" src="https://github.com/user-attachments/assets/fdd3ad74-2e06-4851-bec5-5486b56ff496" height="600" alt="return_car"/>
+<img width="1440" src="https://github.com/user-attachments/assets/73ad1a06-6243-478a-ad41-10855f590e53" height="600" alt="return_car"/>
 
 
 
 - Booking Summary
-<img width="1440" src="https://github.com/user-attachments/assets/3c757f69-98bc-449d-99d7-2d00e02b02b1" height="600" alt="booking_summary"/>
+<img width="1440" src="https://github.com/user-attachments/assets/7304163d-9783-4dce-b6c7-2e9e41cd46f5" height="600" alt="booking_summary"/>
