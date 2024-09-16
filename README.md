@@ -29,5 +29,5 @@ This is a Web based Application developed using PHP as a Host Language. Database
 
 
 
-> - Booking Summary
+- Booking Summary
 <img width="1440" src="https://github.com/user-attachments/assets/3c757f69-98bc-449d-99d7-2d00e02b02b1" height="600" alt="booking_summary"/>
