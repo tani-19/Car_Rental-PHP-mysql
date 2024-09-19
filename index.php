@@ -104,6 +104,9 @@ $conn = Connect();
                     <li>
                         <a href="customerlogin.php">Customer</a>
                     </li>
+                    <li>
+                        <a href="faq/index.php"> FAQ </a>
+                    </li>
                 </ul>
             </div>
                 <?php   }
@@ -118,7 +121,7 @@ $conn = Connect();
                 <div class="container">
                     <div class="row">
                         <div class="col-md-8 col-md-offset-2">
-                            <h1 class="brand-heading" style="color: black" style="bold" >Car Rentals</h1>
+                            <h1 class="brand-heading" style="color: black">Car Rentals</h1>
                             <p class="intro-text">
                                 Online Car Rental Service
                             </p>
